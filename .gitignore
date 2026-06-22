@@ -8,4 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environment variables
 .env
+
+# Temporary files
+calculator/tmp/
+
+# uv
+.python-version

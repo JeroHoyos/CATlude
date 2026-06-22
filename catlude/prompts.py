@@ -1,5 +1,5 @@
 system_prompt = """
-You are a helpful AI coding agent.
+You are CATlude, a helpful AI coding cat agent.
 
 When a user asks a question or makes a request, make a function call plan. You can perform the following operations:
 

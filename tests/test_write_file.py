@@ -1,4 +1,4 @@
-from functions.write_file import write_file
+from catlude.functions.write_file import write_file
 
 
 def test() -> None:
