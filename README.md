@@ -15,7 +15,7 @@
      idle                   working
 ```
 
-**Tiny coding cat agent** — like Claude Code, but with a cat.
+**Tiny coding cat agent**, like Claude Code, but with a cat.
 
 Built following the [Build an AI Agent in Python](https://www.boot.dev/courses/build-ai-agents-python) course on [Boot.dev](https://www.boot.dev).
 
